@@ -197,7 +197,7 @@ class mytakto implements ActionListener {
 
     }
 }
-public class Tik_Tak_To {
+class Tik_Tak_To {
 
     public static void main(String ...args){
         mytakto tk=new mytakto();
